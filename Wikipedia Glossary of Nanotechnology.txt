@@ -1,4 +1,4 @@
-<h2><span class="mw-headline" id="A">A</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_nanotechnology&amp;action=edit&amp;section=1" title="Edit section: A">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+
 <dl class="glossary">
 <dt class="glossary" id="ace_paste" style="margin-top: 0.4em;"><dfn class="glossary">ACE Paste</dfn></dt>
 <dd class="glossary">Atomspheric Carbon Extractor. Harvests the greenhouse gases for Carbon, to be used for diamondoid fabrication.</dd>
@@ -22,7 +22,6 @@
 <dt class="glossary" id="atomistic_simultations" style="margin-top: 0.4em;"><dfn class="glossary">Atomistic Simultations</dfn></dt>
 <dd class="glossary">Atomic motion computer simulations of macromolecular systems are increasingly becoming an essential part of materials science and nanotechnology.</dd>
 </dl>
-<h2><span class="mw-headline" id="B">B</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_nanotechnology&amp;action=edit&amp;section=2" title="Edit section: B">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="ballistic_magnetoresistance_(bmr)" style="margin-top: 0.4em;"><dfn class="glossary">Ballistic Magnetoresistance (BMR)</dfn></dt>
 <dd class="glossary">A way in which spin orientation, encoding information on a storage medium such as a hard drive, can modify electrical resistance in a nearby circuit, thereby accomplishing the sensing of that orientation.</dd>
@@ -66,7 +65,6 @@
 <dt class="glossary" id="bush_robot" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Bush_robot" title="Bush robot">Bush robot</a></dfn></dt>
 <dd class="glossary">A concept for robots of ultimate dexterity, they utilize fractal branching to create ever-shrinking "branches," eventually ending in nanoscale "fingers."</dd>
 </dl>
-<h2><span class="mw-headline" id="C">C</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_nanotechnology&amp;action=edit&amp;section=3" title="Edit section: C">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="carbon_nanotubes" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Carbon_Nanotubes" class="mw-redirect" title="Carbon Nanotubes">Carbon Nanotubes</a></dfn></dt>
 <dt class="glossary" id="cellular_automata" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Cellular_Automata" class="mw-redirect" title="Cellular Automata">Cellular Automata</a></dfn></dt>
@@ -90,7 +88,6 @@
 <dt class="glossary" id="convergent_assembly" style="margin-top: 0.4em;"><dfn class="glossary">Convergent Assembly</dfn></dt>
 <dd class="glossary">It is based on the idea that smaller parts can be assembled into larger parts, larger parts can be assembled into still larger parts, and so forth. </dd>
 </dl>
-<h2><span class="mw-headline" id="D">D</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_nanotechnology&amp;action=edit&amp;section=4" title="Edit section: D">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="dendrimers" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Dendrimers" class="mw-redirect" title="Dendrimers">Dendrimers</a></dfn></dt>
 <dd class="glossary">A tiny molecular structure that interacts with cells, enabling scientists to probe, diagnose, cure or manipulate them on a nanoscale.</dd>
@@ -109,7 +106,6 @@
 <dt class="glossary" id="dry_nanotechnology" style="margin-top: 0.4em;"><dfn class="glossary">Dry Nanotechnology</dfn></dt>
 <dd class="glossary">Derives from surface science and physical chemistry, focuses on fabrication of structures in carbon (e.g. fullerenes and nanotubes), silicon, and other inorganic materials.</dd>
 </dl>
-<h2><span class="mw-headline" id="E">E</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_nanotechnology&amp;action=edit&amp;section=5" title="Edit section: E">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="ecophagy" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Ecophagy" title="Ecophagy">Ecophagy</a></dfn></dt>
 <dd class="glossary">Consuming the biological environment.</dd>
@@ -124,7 +120,6 @@
 <dt class="glossary" id="exponential_growth" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Exponential_Growth" class="mw-redirect" title="Exponential Growth">Exponential Growth</a></dfn></dt>
 <dd class="glossary">Exponential growth refers to the process of growth or replication involving doubling within a given period.</dd>
 </dl>
-<h2><span class="mw-headline" id="F">F</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_nanotechnology&amp;action=edit&amp;section=6" title="Edit section: F">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="femtometer" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Femtometer" class="mw-redirect" title="Femtometer">Femtometer</a></dfn></dt>
 <dd class="glossary">A unit suitable to express the size of atomic nuclei</dd>
@@ -145,7 +140,6 @@
 <dt class="glossary" id="fullerenes" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Fullerenes" class="mw-redirect" title="Fullerenes">Fullerenes</a></dfn></dt>
 <dd class="glossary">A molecular form of pure carbon discovered in 1985.</dd>
 </dl>
-<h2><span class="mw-headline" id="G">G</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_nanotechnology&amp;action=edit&amp;section=7" title="Edit section: G">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="genegeneering" style="margin-top: 0.4em;"><dfn class="glossary">Genegeneering</dfn></dt>
 <dd class="glossary"><a href="/wiki/Genetic_engineering" title="Genetic engineering">Genetic engineering</a>.</dd>
@@ -162,12 +156,10 @@
 <dt class="glossary" id="guy_fawkes_scenario" style="margin-top: 0.4em;"><dfn class="glossary">Guy Fawkes scenario</dfn></dt>
 <dd class="glossary">Hypothetical scenario in which wide availability of nanotech makes it trivial for anyone to produce significant amounts of explosives for use in committing acts of terrorism.</dd>
 </dl>
-<h2><span class="mw-headline" id="H">H</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_nanotechnology&amp;action=edit&amp;section=8" title="Edit section: H">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="heteronuclear" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Heteronuclear" class="mw-redirect" title="Heteronuclear">Heteronuclear</a></dfn></dt>
 <dd class="glossary">Consisting of different elements.</dd>
 </dl>
-<h2><span class="mw-headline" id="I">I</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_nanotechnology&amp;action=edit&amp;section=9" title="Edit section: I">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="immune_machines" style="margin-top: 0.4em;"><dfn class="glossary">Immune Machines</dfn></dt>
 <dd class="glossary">Medical nanomachines designed for internal use, especially in the bloodstream and digestive tract, able to identify and disable intruders such as bacteria and viruses.</dd>
@@ -176,14 +168,12 @@
 <dt class="glossary" id="inline_universities" style="margin-top: 0.4em;"><dfn class="glossary">Inline Universities</dfn></dt>
 <dd class="glossary">Nanocomputer implants serving to increase intelligence and education of their owners, essentially turning them into walking universities.</dd>
 </dl>
-<h2><span class="mw-headline" id="K">K</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_nanotechnology&amp;action=edit&amp;section=10" title="Edit section: K">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="khaki_goo" style="margin-top: 0.4em;"><dfn class="glossary">Khaki goo</dfn></dt>
 <dd class="glossary">Slang term for hypothetical military use of nanotechnology, especially as of weaponized grey goo</dd>
 <dt class="glossary" id="knowbots" style="margin-top: 0.4em;"><dfn class="glossary">Knowbots</dfn></dt>
 <dd class="glossary">Knowledge robots, first developed Vinton G. Cref and Robert E. Kahn for National Research Initiatives.</dd>
 </dl>
-<h2><span class="mw-headline" id="L">L</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_nanotechnology&amp;action=edit&amp;section=11" title="Edit section: L">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="langmuir-blodgett" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Langmuir%E2%80%93Blodgett_trough" title="Langmuir–Blodgett trough">Langmuir-Blodgett</a></dfn></dt>
 <dd class="glossary">The name of a nanofabrication technique used to create ultrathin films (monolayers and isolated molecular layers), the end result of which is called a "Langmuir-Blodgett film."</dd>
@@ -194,7 +184,6 @@
 <dt class="glossary" id="limited_assembler" style="margin-top: 0.4em;"><dfn class="glossary">Limited Assembler</dfn></dt>
 <dd class="glossary">Assembler capable of making only certain products; faster, more efficient, and less liable to abuse than a general-purpose assembler.</dd>
 </dl>
-<h2><span class="mw-headline" id="M">M</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_nanotechnology&amp;action=edit&amp;section=12" title="Edit section: M">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="mechanochemistry" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Mechanochemistry" title="Mechanochemistry">Mechanochemistry</a></dfn></dt>
 <dd class="glossary">The direct, mechanical control of molecular structure formation and manipulation to form atomically precise products.</dd>
@@ -238,7 +227,6 @@
 <dt class="glossary" id="moore&#39;s_law" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Moore%27s_Law" class="mw-redirect" title="Moore&#39;s Law">Moore's Law</a></dfn></dt>
 <dd class="glossary">It stated at the time that the number of transistors packed into an integrated circuit had doubled every year since the technology's inception four years earlier.</dd>
 </dl>
-<h2><span class="mw-headline" id="N">N</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_nanotechnology&amp;action=edit&amp;section=13" title="Edit section: N">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="nanarchist" style="margin-top: 0.4em;"><dfn class="glossary">Nanarchist</dfn></dt>
 <dd class="glossary">Someone who circumvents government control to use nanotechnology, or someone who advocates this.</dd>
@@ -328,7 +316,6 @@
 <dt class="glossary" id="nanoprobe" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Nanoprobe_(device)" title="Nanoprobe (device)">Nanoprobe</a></dfn></dt>
 <dd class="glossary">Nanoscale machines used to diagnose, image, report on, and treat disease within the body.</dd>
 </dl>
-<h2><span class="mw-headline" id="P">P</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_nanotechnology&amp;action=edit&amp;section=14" title="Edit section: P">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="pico_technology" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Pico_Technology" title="Pico Technology">Pico Technology</a></dfn></dt>
 <dd class="glossary">The art of manipulating materials on a quantum scale.</dd>
@@ -347,7 +334,6 @@
 <dt class="glossary" id="proteomics" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Proteomics" title="Proteomics">Proteomics</a></dfn></dt>
 <dd class="glossary">The term proteome refers to all the proteins expressed by a genome, and thus proteomics involves the identification of proteins in the body and the determination of their role in physiological and pathophysiological functions.</dd>
 </dl>
-<h2><span class="mw-headline" id="Q">Q</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_nanotechnology&amp;action=edit&amp;section=15" title="Edit section: Q">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="quantum_computer" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Quantum_Computer" class="mw-redirect" title="Quantum Computer">Quantum Computer</a></dfn></dt>
 <dd class="glossary">A computer that takes advantage of quantum mechanical properties such as superposition and entanglement resulting from nanoscale, molecular, atomic and subatomic components.</dd>
@@ -372,7 +358,6 @@
 <dt class="glossary" id="qubit" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Qubit" title="Qubit">Qubit</a></dfn></dt>
 <dd class="glossary">The quantum computing analog to a bit.</dd>
 </dl>
-<h2><span class="mw-headline" id="R">R</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_nanotechnology&amp;action=edit&amp;section=16" title="Edit section: R">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="red_goo" style="margin-top: 0.4em;"><dfn class="glossary">Red goo</dfn></dt>
 <dd class="glossary">Nanotechnology which is deliberately designed and released to cause harm, as opposed to a grey goo scenario which is assumed to be accidental.</dd>
@@ -381,7 +366,6 @@
 <dt class="glossary" id="rheology" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Rheology" title="Rheology">Rheology</a></dfn></dt>
 <dd class="glossary">The study of the deformation and flow of matter under the influence of an applied stress, which might be, for example, a shear stress or extensional stress.</dd>
 </dl>
-<h2><span class="mw-headline" id="S">S</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_nanotechnology&amp;action=edit&amp;section=17" title="Edit section: S">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="samfet" style="margin-top: 0.4em;"><dfn class="glossary">SAMFET</dfn></dt>
 <dd class="glossary">Where a few molecules act as FETs, exhibiting both very strong gain, and extraordinarily rapid response.</dd>
@@ -421,7 +405,6 @@
 <dt class="glossary" id="superlattice_nanowire" style="margin-top: 0.4em;"><dfn class="glossary">Superlattice Nanowire</dfn></dt>
 <dd class="glossary">Interwoven bundles of nanowires using substances with different compositions and properties.</dd>
 </dl>
-<h2><span class="mw-headline" id="T">T</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_nanotechnology&amp;action=edit&amp;section=18" title="Edit section: T">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="technocyte" style="margin-top: 0.4em;"><dfn class="glossary">Technocyte</dfn></dt>
 <dd class="glossary">A nanoscale artificial device (especially a nanite) in the human bloodstream used for repairs, cancer protection, as an artificial immune system or for other uses.</dd>
@@ -430,7 +413,6 @@
 <dt class="glossary" id="transistor" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Transistor" title="Transistor">Transistor</a></dfn></dt>
 <dd class="glossary">The basic element in an integrated circuit.</dd>
 </dl>
-<h2><span class="mw-headline" id="U">U</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_nanotechnology&amp;action=edit&amp;section=19" title="Edit section: U">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="universal_assembler" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Universal_Assembler" class="mw-redirect" title="Universal Assembler">Universal Assembler</a></dfn></dt>
 <dd class="glossary">Uses raw atoms and molecules to construct consumer goods, and is pollution free.</dd>
@@ -439,7 +421,6 @@
 {{term|[[Utility fog]}}
 <dd class="glossary">Objects formed of "intelligent" polymorphic (able to change shape) substances, typically having an octet truss structure.</dd>
 </dl>
-<h2><span class="mw-headline" id="V">V</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_nanotechnology&amp;action=edit&amp;section=20" title="Edit section: V">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="vasculoid" style="margin-top: 0.4em;"><dfn class="glossary">Vasculoid</dfn></dt>
 <dd class="glossary">A single, complex, multisegmented nanotechnological medical robotic system capable of duplicating all essential thermal and biochemical transport functions of the blood, including circulation of respiratory gases, glucose, hormones, cytokines, waste products, and cellular components.</dd>
@@ -448,12 +429,10 @@
 <dt class="glossary" id="von_neumann_probe" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Von_Neumann_Probe" class="mw-redirect" title="Von Neumann Probe">Von Neumann Probe</a></dfn></dt>
 <dd class="glossary">A von Neumann Machine able to move over interstellar or interplanetary distances and to utilize local materials to build new copies of itself.</dd>
 </dl>
-<h2><span class="mw-headline" id="W">W</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_nanotechnology&amp;action=edit&amp;section=21" title="Edit section: W">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="wet_nanotechnology" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Wet_nanotechnology" title="Wet nanotechnology">Wet nanotechnology</a></dfn></dt>
 <dd class="glossary">The study of biological systems that exist primarily in a water environment.</dd>
 </dl>
-<h2><span class="mw-headline" id="Z">Z</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_nanotechnology&amp;action=edit&amp;section=22" title="Edit section: Z">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="zeptosecond" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Zeptosecond" class="mw-redirect" title="Zeptosecond">Zeptosecond</a></dfn></dt>
 <dd class="glossary">One-billion-trillionth of a second.</dd>
