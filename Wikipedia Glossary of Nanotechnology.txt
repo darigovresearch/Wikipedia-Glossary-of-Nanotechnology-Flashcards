@@ -1,6 +1,9 @@
 "ACE Paste (Wikipedia Glossary of Nanotechnology)"|"Atomspheric Carbon Extractor. Harvests the greenhouse gases for Carbon, to be used for diamondoid fabrication."
 "<a href=""https://en.wikipedia.org/wiki/Adenosine_Triphosphate"" class=""mw-redirect"" title=""Adenosine Triphosphate"">Adenosine Triphosphate</a> (ATP) (Wikipedia Glossary of Nanotechnology)"|"A chemical compound that functions as fuel for biomolecular nanotechnology."
-"<a href=""https://en.wikipedia.org/wiki/Animat"" title=""Animat"">Animat</a> (Wikipedia Glossary of Nanotechnology)"|""
+"<a href=""https://en.wikipedia.org/wiki/Animat"" title=""Animat"">Animat</a> (Wikipedia Glossary of Nanotechnology)"|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Nanotechnology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_nanotechnology"">""Glossary of nanotechnology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Assembler_(nanotechnology)"" class=""mw-redirect"" title=""Assembler (nanotechnology)"">Assembler</a> (Wikipedia Glossary of Nanotechnology)"|"A molecular manufacturing device capable of positioning molecules through chemical reactions."
 "<a href=""https://en.wikipedia.org/wiki/Atom"" title=""Atom"">Atom</a> (Wikipedia Glossary of Nanotechnology)"|"The smallest unit of a chemical element, about a third of a nanometer in diameter."
 "<a href=""https://en.wikipedia.org/wiki/Atomic_force_microscope"" class=""mw-redirect"" title=""Atomic force microscope"">Atomic force microscope</a> (AFM) (Wikipedia Glossary of Nanotechnology)"|"An imaging instrument used to “magnify” at the molecular level through mechanical tracing of surface contours."
@@ -13,7 +16,10 @@
 "Bio-assemblies (Wikipedia Glossary of Nanotechnology)"|"Containing several protein units, DNA loops, lipids, various ligands, etc."
 "Biovorous (Wikipedia Glossary of Nanotechnology)"|"An organism capable of converting biological material into energy for sustenance"
 "Biochauvinism (Wikipedia Glossary of Nanotechnology)"|"The prejudice that biological systems have an intrinsic superiority that will always give them a monopoly on self-reproduction and intelligence. "
-"Biomedical Nanotechnology (Wikipedia Glossary of Nanotechnology)"|""
+"Biomedical Nanotechnology (Wikipedia Glossary of Nanotechnology)"|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Nanotechnology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_nanotechnology"">""Glossary of nanotechnology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/BioMEMS"" class=""mw-redirect"" title=""BioMEMS"">BioMEMS</a> (Wikipedia Glossary of Nanotechnology)"|"MEMS used in medicine, that use microchips."
 "BioNEMS (Wikipedia Glossary of Nanotechnology)"|"Biofunctionalized nanoelectromechanical systems."
 "<a href=""https://en.wikipedia.org/wiki/Biomimetics"" title=""Biomimetics"">Biomimetics</a> (Wikipedia Glossary of Nanotechnology)"|"Study of the structure and function of biological substances to make artificial products that mimic the natural ones."
@@ -30,7 +36,10 @@
 "<a href=""https://en.wikipedia.org/wiki/Buckminsterfullerene"" title=""Buckminsterfullerene"">Buckminsterfullerene</a> (Wikipedia Glossary of Nanotechnology)"|"A broad term covering the variety of buckyballs and carbon nanotubes that exist."
 "<a href=""https://en.wikipedia.org/wiki/Buckminsterfullerene"" title=""Buckminsterfullerene"">Bucky Balls</a> (Wikipedia Glossary of Nanotechnology)"|"molecules made up of 60 carbon atoms arranged in a series of interlocking hexagonal shapes, forming a structure similar to a soccer ball. "
 "<a href=""https://en.wikipedia.org/wiki/Bush_robot"" title=""Bush robot"">Bush robot</a> (Wikipedia Glossary of Nanotechnology)"|"A concept for robots of ultimate dexterity, they utilize fractal branching to create ever-shrinking ""branches,"" eventually ending in nanoscale ""fingers."""
-"<a href=""https://en.wikipedia.org/wiki/Carbon_Nanotubes"" class=""mw-redirect"" title=""Carbon Nanotubes"">Carbon Nanotubes</a> (Wikipedia Glossary of Nanotechnology)"|""
+"<a href=""https://en.wikipedia.org/wiki/Carbon_Nanotubes"" class=""mw-redirect"" title=""Carbon Nanotubes"">Carbon Nanotubes</a> (Wikipedia Glossary of Nanotechnology)"|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Nanotechnology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_nanotechnology"">""Glossary of nanotechnology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Cellular_Automata"" class=""mw-redirect"" title=""Cellular Automata"">Cellular Automata</a> (Wikipedia Glossary of Nanotechnology)"|"an array of identically programmed automata, or ""cells,"" which interact with one another."
 "Cell pharmacology (Wikipedia Glossary of Nanotechnology)"|"Delivery of drugs by medical nanomachines to exact locations in the body."
 "Cell Repair Machine (Wikipedia Glossary of Nanotechnology)"|"Molecular and nanoscale machines with sensors, nanocomputers and tools, programmed to detect and repair damage to cells and tissues, which could even report back to and receive instructions from a human doctor if needed."
@@ -79,8 +88,14 @@
 "Knowbots (Wikipedia Glossary of Nanotechnology)"|"Knowledge robots, first developed Vinton G. Cref and Robert E. Kahn for National Research Initiatives."
 "<a href=""https://en.wikipedia.org/wiki/Langmuir%E2%80%93Blodgett_trough"" title=""Langmuir–Blodgett trough"">Langmuir-Blodgett</a> (Wikipedia Glossary of Nanotechnology)"|"The name of a nanofabrication technique used to create ultrathin films (monolayers and isolated molecular layers), the end result of which is called a ""Langmuir-Blodgett film."""
 "<a href=""https://en.wikipedia.org/wiki/LCD"" class=""mw-redirect"" title=""LCD"">LCD</a> (Wikipedia Glossary of Nanotechnology)"|"The predominant technology used in flat panel displays."
-"<a href=""https://en.wikipedia.org/wiki/LED"" class=""mw-redirect"" title=""LED"">LED</a> (Wikipedia Glossary of Nanotechnology)"|""
-"<a href=""https://en.wikipedia.org/wiki/OLED"" title=""OLED"">OLED</a> (Wikipedia Glossary of Nanotechnology)"|""
+"<a href=""https://en.wikipedia.org/wiki/LED"" class=""mw-redirect"" title=""LED"">LED</a> (Wikipedia Glossary of Nanotechnology)"|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Nanotechnology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_nanotechnology"">""Glossary of nanotechnology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/OLED"" title=""OLED"">OLED</a> (Wikipedia Glossary of Nanotechnology)"|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Nanotechnology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_nanotechnology"">""Glossary of nanotechnology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "Limited Assembler (Wikipedia Glossary of Nanotechnology)"|"Assembler capable of making only certain products; faster, more efficient, and less liable to abuse than a general-purpose assembler."
 "<a href=""https://en.wikipedia.org/wiki/Mechanochemistry"" title=""Mechanochemistry"">Mechanochemistry</a> (Wikipedia Glossary of Nanotechnology)"|"The direct, mechanical control of molecular structure formation and manipulation to form atomically precise products."
 "<a href=""https://en.wikipedia.org/wiki/Mechanosynthesis"" title=""Mechanosynthesis"">Mechanosynthesis</a> (Wikipedia Glossary of Nanotechnology)"|"Molecular tools with chemically specific tip structures can be used, sequentially, to modify a work piece and build a wide range of molecular structures."
@@ -94,7 +109,10 @@
 "Molecular Manipulator (Wikipedia Glossary of Nanotechnology)"|"A device combining a proximal probe mechanism for atomically precise positioning with a molecule binding site on the tip; can serve as the basis for building complex structures by positional synthesis."
 "<a href=""https://en.wikipedia.org/wiki/Molecular_assembler"" title=""Molecular assembler"">Molecular Manufacturing</a> (Wikipedia Glossary of Nanotechnology)"|"Manufacturing using molecular machinery, giving molecule-by-molecule control of products and by-products via positional chemical synthesis."
 "<a href=""https://en.wikipedia.org/wiki/Molecular_Medicine"" class=""mw-redirect"" title=""Molecular Medicine"">Molecular Medicine</a> (Wikipedia Glossary of Nanotechnology)"|"Studying molecules as they relate to health and disease, and manipulating those molecules to improve the diagnosis, prevention, and treatment of disease."
-"Molecular Nanogenerator (Wikipedia Glossary of Nanotechnology)"|""
+"Molecular Nanogenerator (Wikipedia Glossary of Nanotechnology)"|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Nanotechnology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_nanotechnology"">""Glossary of nanotechnology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Molecular_Nanotechnology"" class=""mw-redirect"" title=""Molecular Nanotechnology"">Molecular Nanotechnology</a> (MNT) (Wikipedia Glossary of Nanotechnology)"|"Thorough, inexpensive control of the structure of matter based on molecule-by-molecule control of products and byproducts; the products and processes of molecular manufacturing, including molecular machinery."
 "Molecular Recognition (Wikipedia Glossary of Nanotechnology)"|"A chemical term referring to processes in which molecules adhere in a highly specific way, forming a larger structure; an enabling technology for nanotechnology."
 "Molecular Systems Engineering (Wikipedia Glossary of Nanotechnology)"|"Design, analysis, and construction of systems of molecular parts working together to carry out a useful purpose."
@@ -106,15 +124,27 @@
 "Nanarchist (Wikipedia Glossary of Nanotechnology)"|"Someone who circumvents government control to use nanotechnology, or someone who advocates this."
 "Nanarchy (Wikipedia Glossary of Nanotechnology)"|"The use of automatic law-enforcement by nanomachines or robots, without any human control."
 "Nanoarray (Wikipedia Glossary of Nanotechnology)"|"An ultra-sensitve, ultra-miniaturized array for biomolecular analysis."
-"<a href=""https://en.wikipedia.org/wiki/Molecular_assembler"" title=""Molecular assembler"">Nanoassembler</a> (Wikipedia Glossary of Nanotechnology)"|""
+"<a href=""https://en.wikipedia.org/wiki/Molecular_assembler"" title=""Molecular assembler"">Nanoassembler</a> (Wikipedia Glossary of Nanotechnology)"|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Nanotechnology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_nanotechnology"">""Glossary of nanotechnology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Microbalance"" title=""Microbalance"">Nanobalance</a> (Wikipedia Glossary of Nanotechnology)"|"A nanoscale balance for determining mass, small enough to weigh viruses and other sub-micron scale particles."
 "Nanobeads (Wikipedia Glossary of Nanotechnology)"|"Polymer beads with diameters of between 0.1 to 10 micrometers."
 "Nanobialys (Wikipedia Glossary of Nanotechnology)"|"Miniature bialy-shaped particles developed by Washington University as delivery agents for drugs and imaging agents directly to the sites of tumors and plaques."
 "<a href=""https://en.wikipedia.org/wiki/Nanobiotechnology"" title=""Nanobiotechnology"">Nanobiotechnology</a> (Wikipedia Glossary of Nanotechnology)"|"Applying the tools and processes of MNT to build devices for studying biosystems, in order to learn from biology how to create better nanoscale devices."
-"<a href=""https://en.wikipedia.org/wiki/Nanorobotics"" title=""Nanorobotics"">Nanobot</a> (Wikipedia Glossary of Nanotechnology)"|""
+"<a href=""https://en.wikipedia.org/wiki/Nanorobotics"" title=""Nanorobotics"">Nanobot</a> (Wikipedia Glossary of Nanotechnology)"|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Nanotechnology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_nanotechnology"">""Glossary of nanotechnology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "Nanobubbles (Wikipedia Glossary of Nanotechnology)"|"Tiny air bubbles on colloid surfaces."
-"Nanocatalysis (Wikipedia Glossary of Nanotechnology)"|""
-"Nanochips (Wikipedia Glossary of Nanotechnology)"|""
+"Nanocatalysis (Wikipedia Glossary of Nanotechnology)"|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Nanotechnology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_nanotechnology"">""Glossary of nanotechnology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"Nanochips (Wikipedia Glossary of Nanotechnology)"|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Nanotechnology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_nanotechnology"">""Glossary of nanotechnology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Nanochondrion"" title=""Nanochondrion"">Nanochondria</a> (Wikipedia Glossary of Nanotechnology)"|"Nanomachines existing inside living cells, participating in their biochemistry (like mitochondria) and/or assembling various structures."
 "Nanocombinatorics (Wikipedia Glossary of Nanotechnology)"|"The new analytical method utilizes a technique invented at Northwestern called polymer pen lithography, where basically a rubber stamp having as many as 11 million sharp pyramids is mounted on a transparent glass backing and precisely controlled by an atomic force microscope to generate desired patterns on a surface."
 "<a href=""https://en.wikipedia.org/wiki/Nanocomputer"" title=""Nanocomputer"">Nanocomputer</a> (Wikipedia Glossary of Nanotechnology)"|"A computer made from components (mechanical, electronic, or otherwise) built at the nanometer scale."
@@ -132,19 +162,31 @@
 "Nanohorns (Wikipedia Glossary of Nanotechnology)"|"One of the SWNT (single walled carbon nanotube) types, with an irregular horn-like shape, which may be a critical component of a new generation of fuel cells."
 "Nanoimprinting (Wikipedia Glossary of Nanotechnology)"|"A technique that is very simple in concept, and totally analogous to traditional mould- or form-based printing technology, but that uses moulds (masters) with nanoscale features."
 "Nanoimprint Machine (Wikipedia Glossary of Nanotechnology)"|"A form of soft lithography"
-"Nanohacking (Wikipedia Glossary of Nanotechnology)"|"""Hacking"" at the molecular level."
+"Nanohacking (Wikipedia Glossary of Nanotechnology)"|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Nanotechnology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_nanotechnology"">""Glossary of nanotechnology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+""Hacking"" at the molecular level."
 "<a href=""https://en.wikipedia.org/wiki/Nanoindentation"" title=""Nanoindentation"">Nanoindentation</a> (Wikipedia Glossary of Nanotechnology)"|"Similar to conventional hardness testing performed on a much smaller scale."
 "<a href=""https://en.wikipedia.org/wiki/Nanolithography"" title=""Nanolithography"">Nanolithography</a> (Wikipedia Glossary of Nanotechnology)"|"Writing on the nanoscale."
 "<a href=""https://en.wikipedia.org/wiki/Molecular_machine"" title=""Molecular machine"">Nanomachine</a> (Wikipedia Glossary of Nanotechnology)"|"An artificial molecular machine of the sort made by molecular manufacturing."
 "Nanomachining (Wikipedia Glossary of Nanotechnology)"|"Like traditional machining, where portions of the structure are removed or modified, nanomachining involves changing the structure of nano-scale materials or molecules."
 "nanoManipulator (Wikipedia Glossary of Nanotechnology)"|"Uses virtual reality (VR) goggles and a force feedback probe as an interface to a scanning probe microscope, providing researchers with a new way to interact with the atomic world."
 "Nanomanipulation (Wikipedia Glossary of Nanotechnology)"|"The process of manipulating items at an atomic or molecular scale in order to produce precise structures."
-"<a href=""https://en.wikipedia.org/wiki/Nanomanufacturing"" title=""Nanomanufacturing"">Nanomanufacturing</a> (Wikipedia Glossary of Nanotechnology)"|""
+"<a href=""https://en.wikipedia.org/wiki/Nanomanufacturing"" title=""Nanomanufacturing"">Nanomanufacturing</a> (Wikipedia Glossary of Nanotechnology)"|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Nanotechnology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_nanotechnology"">""Glossary of nanotechnology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Nanomaterials"" title=""Nanomaterials"">Nanomaterials</a> (Wikipedia Glossary of Nanotechnology)"|"Can be subdivided into nanoparticles, nanofilms and nanocomposites."
-"<a href=""https://en.wikipedia.org/wiki/Nanomedicine"" title=""Nanomedicine"">Nanomedicine</a> (Wikipedia Glossary of Nanotechnology)"|""
+"<a href=""https://en.wikipedia.org/wiki/Nanomedicine"" title=""Nanomedicine"">Nanomedicine</a> (Wikipedia Glossary of Nanotechnology)"|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Nanotechnology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_nanotechnology"">""Glossary of nanotechnology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Nanophotonics"" title=""Nanophotonics"">Nano-Optics</a> (Wikipedia Glossary of Nanotechnology)"|"Interaction of light and matter on the nanoscale."
 "Nanopens &amp; Nanopencils (Wikipedia Glossary of Nanotechnology)"|"Allows for drawing electronic circuits a thousand times smaller than current ones."
-"NanoPGM (Wikipedia Glossary of Nanotechnology)"|""
+"NanoPGM (Wikipedia Glossary of Nanotechnology)"|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Nanotechnology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_nanotechnology"">""Glossary of nanotechnology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "Nanopharmaceuticals (Wikipedia Glossary of Nanotechnology)"|"Nanoscale particles used to modulate drug transport for drug uptake and delivery applications."
 "Nanophase Carbon Materials (Wikipedia Glossary of Nanotechnology)"|"A form of matter in which small clusters of atoms form the building blocks of a larger structure."
 "Nanoplotter (Wikipedia Glossary of Nanotechnology)"|"A multi-tip nanopen."
@@ -182,7 +224,10 @@
 "<a href=""https://en.wikipedia.org/wiki/Self-assembly"" title=""Self-assembly"">Self-assembly</a> (Wikipedia Glossary of Nanotechnology)"|"In chemical solutions, self-assembly (also called Brownian assembly) results from the random motion of molecules and the affinity of their binding sites for one another."
 "<a href=""https://en.wikipedia.org/wiki/Maintenance,_repair,_and_operations"" class=""mw-redirect"" title=""Maintenance, repair, and operations"">Self-repair</a> (Wikipedia Glossary of Nanotechnology)"|"Indicating ability to heal itself without outside intervention."
 "<a href=""https://en.wikipedia.org/wiki/Self-replication"" title=""Self-replication"">Self-replication</a> (Wikipedia Glossary of Nanotechnology)"|"More accurately labeled ""exponential replication,"" self-replication refers to the process of growth or replication involving doubling within a given period."
-"<a href=""https://en.wikipedia.org/wiki/Single-walled_carbon_nanotubes"" class=""mw-redirect"" title=""Single-walled carbon nanotubes"">Single-walled carbon nanotubes</a> (SWNT) (Wikipedia Glossary of Nanotechnology)"|""
+"<a href=""https://en.wikipedia.org/wiki/Single-walled_carbon_nanotubes"" class=""mw-redirect"" title=""Single-walled carbon nanotubes"">Single-walled carbon nanotubes</a> (SWNT) (Wikipedia Glossary of Nanotechnology)"|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Nanotechnology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_nanotechnology"">""Glossary of nanotechnology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "Shape Memory Alloy (Wikipedia Glossary of Nanotechnology)"|"A unique class of alloys which are able to ""remember"" their shape and are able to return to that shape even after being bent."
 "<a href=""https://en.wikipedia.org/wiki/Smartdust"" title=""Smartdust"">Smartdust</a> (Wikipedia Glossary of Nanotechnology)"|"Tiny, bottle-cap-shaped micro-machines fitted with wireless communication devices - that measure light and temperature."
 "<a href=""https://en.wikipedia.org/wiki/Smart_material"" title=""Smart material"">Smart material</a> (Wikipedia Glossary of Nanotechnology)"|"Materials and products capable of relatively complex behavior due to the incorporation of nanocomputers and nanomachines."
