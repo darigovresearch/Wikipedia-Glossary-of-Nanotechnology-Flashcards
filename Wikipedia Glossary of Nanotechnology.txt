@@ -176,10 +176,7 @@
 "Nanohorns (Wikipedia Glossary of Nanotechnology)"|"One of the SWNT (single walled carbon nanotube) types, with an irregular horn-like shape, which may be a critical component of a new generation of fuel cells."
 "Nanoimprinting (Wikipedia Glossary of Nanotechnology)"|"A technique that is very simple in concept, and totally analogous to traditional mould- or form-based printing technology, but that uses moulds (masters) with nanoscale features."
 "Nanoimprint Machine (Wikipedia Glossary of Nanotechnology)"|"A form of soft lithography"
-"Nanohacking (Wikipedia Glossary of Nanotechnology)"|"
-<p>Looks like this term doesn't have a definition yet.</p>
-<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Nanotechnology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_nanotechnology"">""Glossary of nanotechnology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
-""Hacking"" at the molecular level."
+"Nanohacking (Wikipedia Glossary of Nanotechnology)"|"""Hacking"" at the molecular level."
 "<a href=""https://en.wikipedia.org/wiki/Nanoindentation"" title=""Nanoindentation"">Nanoindentation</a> (Wikipedia Glossary of Nanotechnology)"|"Similar to conventional hardness testing performed on a much smaller scale."
 "<a href=""https://en.wikipedia.org/wiki/Nanolithography"" title=""Nanolithography"">Nanolithography</a> (Wikipedia Glossary of Nanotechnology)"|"Writing on the nanoscale."
 "<a href=""https://en.wikipedia.org/wiki/Molecular_machine"" title=""Molecular machine"">Nanomachine</a> (Wikipedia Glossary of Nanotechnology)"|"An artificial molecular machine of the sort made by molecular manufacturing."
@@ -255,7 +252,7 @@
 "<a href=""https://en.wikipedia.org/wiki/Transistor"" title=""Transistor"">Transistor</a> (Wikipedia Glossary of Nanotechnology)"|"The basic element in an integrated circuit."
 "<a href=""https://en.wikipedia.org/wiki/Universal_Assembler"" class=""mw-redirect"" title=""Universal Assembler"">Universal Assembler</a> (Wikipedia Glossary of Nanotechnology)"|"Uses raw atoms and molecules to construct consumer goods, and is pollution free."
 "<a href=""https://en.wikipedia.org/wiki/Von_Neumann_universal_constructor"" title=""Von Neumann universal constructor"">Universal Constructor</a> (Wikipedia Glossary of Nanotechnology)"|"A machine capable of constructing anything that can be constructed."
-"{{term|[[Utility fog]}} (Wikipedia Glossary of Nanotechnology)"|"Objects formed of ""intelligent"" polymorphic (able to change shape) substances, typically having an octet truss structure."
+"<a href=""https://en.wikipedia.org/wiki/wiki/Utility_fog"" title=""Utility fog"">Utility fog</a> (Wikipedia Glossary of Nanotechnology)"|"Objects formed of ""intelligent"" polymorphic (able to change shape) substances, typically having an octet truss structure."
 "Vasculoid (Wikipedia Glossary of Nanotechnology)"|"A single, complex, multisegmented nanotechnological medical robotic system capable of duplicating all essential thermal and biochemical transport functions of the blood, including circulation of respiratory gases, glucose, hormones, cytokines, waste products, and cellular components."
 "<a href=""https://en.wikipedia.org/wiki/Self-replicating_machine"" title=""Self-replicating machine"">Von Neumann Machine</a> (Wikipedia Glossary of Nanotechnology)"|"A machine which is able to build a working copy of itself using materials in its environment."
 "<a href=""https://en.wikipedia.org/wiki/Von_Neumann_Probe"" class=""mw-redirect"" title=""Von Neumann Probe"">Von Neumann Probe</a> (Wikipedia Glossary of Nanotechnology)"|"A von Neumann Machine able to move over interstellar or interplanetary distances and to utilize local materials to build new copies of itself."
